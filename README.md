@@ -1,11 +1,13 @@
-# bayesian-net
+# Bayesian Net
 
-Bayesian network with inference (variable elimination)
+Bayesian network with inference.
 
 ## Usage
 
 ```bash
-python3 bayesian_net.py --help
+python3 bayesian_net.py
 ```
 
-Zero dependencies. Python 3.8+.
+## License
+
+MIT
