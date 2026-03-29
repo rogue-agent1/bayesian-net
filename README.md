@@ -1,13 +1,9 @@
-# Bayesian Net
+# bayesian-net
 
-Bayesian network with inference.
+Simple Bayesian network inference. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 bayesian_net.py
+python3 bayesian_net.py --help
 ```
-
-## License
-
-MIT
